@@ -3,7 +3,7 @@
 
 - 📚 I’m currently studying at [Chulalongkorn University](https://www.chula.ac.th/en/)
 
-- 🌱 I’m currently learning **golang and kotlin**
+- 🌱 I’m currently learning **golang and Flutter**
 
 - 📫 How to reach me **apiwatsupaphol@gmail.com**
 
